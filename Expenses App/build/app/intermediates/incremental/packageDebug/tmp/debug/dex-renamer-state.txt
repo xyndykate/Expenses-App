@@ -1,0 +1,4 @@
+#Wed Apr 15 14:27:54 EAT 2020
+base.0=/home/ondabu/Desktop/Projects/Dart/Expenses App/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
